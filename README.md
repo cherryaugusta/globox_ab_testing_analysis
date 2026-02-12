@@ -1,6 +1,6 @@
 # GLOBOX FOOD AND DRINK BANNER EXPERIMENT: AN A/B TESTING ANALYSIS
 
-written by ****Cherry Augusta****
+
 
 This project is based on a guided project from the [Masterschool's Data Analytics Program](https://www.masterschool.com/domains/data-analytics/). I have completed this project, adding my own insights, adjustments, and interpretations. This work reflects my personal contributions and includes extensions beyond the original guidance provided by the program.
 
